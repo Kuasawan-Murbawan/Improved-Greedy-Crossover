@@ -6,7 +6,7 @@ In each iteration, the IGX algorithm evaluates the fitness of each solution in t
 
 The IGX algorithm repeats this process until a stopping criterion is met, such as reaching a maximum number of generations or finding a solution with sufficient fitness. The final solution is typically the best solution found in the last generation.
 
-The code for the example of IGX can be seen in the <b>main</b> code 
+The code for the example of IGX can be seen in the <b>[main](https://github.com/Kuasawan-Murbawan/Improved-Greedy-Crossover/blob/main/main.cpp)</b> code 
 
  
 ## Example Problem
